@@ -1,0 +1,365 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav-link {
+    margin-right: 25px;
+}
+
+#first nav h1 {
+    margin-left: 90px;
+    border: 2px solid #4b0136;
+    border-radius: 5px 25px 25px 5px;
+    border-left: none;
+}
+
+#first nav h1 span {
+    border: none;
+    padding: 0;
+    background-color: #4b0136;
+    border-radius: 25px 5px 5px 25px;
+    color: whitesmoke;
+}
+
+.section-1 {
+    margin-top: 80px;
+}
+
+.section-1 div h1 {
+    margin-top: 40px;
+    font-weight: 900;
+    margin-bottom: 20px;
+}
+
+.section-1 div p {
+    margin-bottom: 30px;
+}
+
+.section-1 div img {
+    height: 350px;
+    width: 450px;
+    border-radius: 35%;
+}
+
+#btn-white {
+    margin-left: 30px;
+    padding: 15px 40px;
+    border-radius: 25px;
+    color: #4b0136;
+    font-weight: 500;
+}
+
+#btn-blue {
+    background-color: #4b0136;
+    padding: 15px 40px;
+    border-radius: 25px;
+    font-weight: 500;
+    color: white;
+}
+
+.section-2 {
+    margin-top: 9em;
+    background-color: #fafafa;
+    margin-right: 5em;
+    border-radius: 0px 170px 170px 0;
+    padding-bottom: 8em;
+}
+
+.section-2 div h1 {
+    margin-top: 40px;
+    font-weight: 900;
+    margin-bottom: 20px;
+}
+
+.section-2 div p {
+    margin-bottom: 30px;
+    font-weight: 400;
+}
+
+#btn-white2 {
+    position: relative;
+    top: 12em;
+    left: 28em;
+    padding: 15px 40px;
+    border-radius: 25px;
+    color: #4b0136;
+    font-weight: 500;
+}
+
+.section-3 {
+    margin-top: -8em;
+}
+
+.section-3 .row div .mr-1 {
+    box-shadow: 5px 5px 5px #c5c5c5;
+    border-radius: 10px;
+    background-color: white;
+    padding: 2em .5em;
+}
+
+.section-3 div h1 {
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 1em;
+}
+
+.section-3 div img {
+    height: 50px;
+    width: 50px;
+    margin-bottom: 1em;
+}
+
+#btn-white3 {
+    padding: 15px 40px;
+    border-radius: 25px;
+    color: #4b0136;
+    font-weight: 500;
+}
+
+.section-4 {
+    margin: 0px 10em;
+    margin-top: 5em;
+    padding-bottom: 5em;
+    box-shadow: 5px 5px 5px #c5c5c5;
+}
+
+#btn-blue4 {
+    position: relative;
+    top: 2em;
+    background-color: #4b0136;
+    padding: 15px 40px;
+    border-radius: 25px;
+    font-weight: 500;
+    color: white;
+}
+
+.section-4 div .follow {
+    margin-top: 3em;
+    font-size: 30px;
+}
+
+.section-4 div .follow a {
+    text-decoration: none;
+}
+
+.section-4 div .follow a img {
+    height: 60px;
+    width: 60px;
+    margin: 0em 1em;
+}
+
+footer {
+    margin-top: 5em;
+    padding-bottom: 2em;
+}
+
+footer nav h1 {
+    margin-left: 90px;
+    border: 2px solid #4b0136;
+    border-radius: 5px 25px 25px 5px;
+    border-left: none;
+}
+
+footer nav h1 span {
+    border: none;
+    padding: 0;
+    background-color: #4b0136;
+    border-radius: 25px 5px 5px 25px;
+    color: whitesmoke;
+}
+
+
+/* mobile design */
+
+
+/* header */
+
+#mobilehead nav h1 {
+    border: 2px solid #4b0136;
+    border-radius: 5px 25px 25px 5px;
+    border-left: none;
+}
+
+#mobilehead nav h1 span {
+    background-color: #4b0136;
+    border-radius: 25px 5px 5px 25px;
+    color: whitesmoke;
+}
+
+
+/* section 1 */
+
+.section-1m {
+    margin-top: 50px;
+}
+
+.section-1m div h1 {
+    margin-top: 40px;
+    font-weight: 500;
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.section-1m div p {
+    margin-bottom: 30px;
+    text-align: center
+}
+
+.section-1m div img {
+    height: 300px;
+    width: 300px;
+    border-radius: 35%;
+    margin: 0em 1.5em;
+    margin-top: 5em;
+}
+
+#m-btn-white {
+    position: relative;
+    top: 2em;
+    left: 25%;
+    padding: 15px 40px;
+    border-radius: 25px;
+    color: #4b0136;
+    font-weight: 500;
+}
+
+#m-btn-blue {
+    position: relative;
+    left: 70px;
+    background-color: #4b0136;
+    padding: 15px 40px;
+    border-radius: 25px;
+    font-weight: 500;
+    color: white;
+}
+
+
+/* section 2 */
+
+.section-2m {
+    margin-top: 5em;
+    background-color: #fafafa;
+    margin-right: 5em;
+    border-radius: 0px 170px 170px 0;
+    padding-bottom: 8em;
+}
+
+.section-2m div h1 {
+    margin-top: 40px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.section-2m div p {
+    margin-bottom: 30px;
+    font-weight: 400;
+}
+
+#m-btn-white2 {
+    padding: 15px 40px;
+    border-radius: 25px;
+    color: #4b0136;
+    font-weight: 500;
+}
+
+
+/* section 3 */
+
+.section-3m {
+    margin: 0em .5em;
+    margin-top: -2em;
+}
+
+.section-3m .row div .mr-1 {
+    box-shadow: 5px 5px 5px #c5c5c5;
+    border-radius: 10px;
+    background-color: white;
+    padding: 2em .3em;
+}
+
+.section-3m div h1 {
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 1em;
+}
+
+.section-3m div img {
+    height: 50px;
+    width: 50px;
+    margin-bottom: 1em;
+}
+
+#m-btn-white3 {
+    padding: 15px 20px;
+    border-radius: 25px;
+    color: #4b0136;
+    font-weight: 500;
+}
+
+
+/* section 4 */
+
+.section-4m {
+    font-size: 15px;
+    margin-top: 3em;
+}
+
+.section-4m div h1 {
+    font-size: 20px;
+}
+
+#m-btn-blue4 {
+    position: relative;
+    top: 1em;
+    bottom: 1em;
+    background-color: #4b0136;
+    padding: 15px 40px;
+    border-radius: 25px;
+    font-weight: 500;
+    color: white;
+}
+
+.section-4m div .follow h1 {
+    margin-top: 2em;
+    font-size: 30px;
+}
+
+.section-4m div .follow a {
+    text-decoration: none;
+}
+
+.section-4m div .follow a img {
+    height: 60px;
+    width: 60px;
+}
+
+
+/* mobile footer */
+
+.mobilefoot {
+    margin-top: 5em;
+    padding-bottom: 2em;
+}
+
+.mobilefoot nav h1 {
+    border: 2px solid #4b0136;
+    border-radius: 5px 25px 25px 5px;
+    border-left: none;
+}
+
+.mobilefoot nav h1 span {
+    border: none;
+    padding: 0;
+    background-color: #4b0136;
+    border-radius: 25px 5px 5px 25px;
+    color: whitesmoke;
+}
+
+.mobilefoot nav ul {
+    float: right;
+}
+
+.mobilefoot nav ul li {
+    float: left;
+}
